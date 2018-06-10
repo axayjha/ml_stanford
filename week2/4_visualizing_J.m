@@ -34,7 +34,7 @@ computeCost(X, y, theta)
 
 theta = gradientDescent(X, y, theta, alpha, iterations);
 
-% ---------------Starts from here
+% ---------------Starts from here-----------
 
 fprintf('Visualizing J(theta_0, theta_1 ...\n')
 
